@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Matt Plummer
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Digital Research Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Victoria University of Wellington
+  url: https://www.wgtn.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Digital interpreter with a background in the arts and technology.
 
 # Interests to show in About widget
 interests:
