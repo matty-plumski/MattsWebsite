@@ -16,7 +16,7 @@ font_size: M
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
-font = 'my_font_set'
+font: 'my_font_set'
 
 site_type: Person
 local_business_type: ''
