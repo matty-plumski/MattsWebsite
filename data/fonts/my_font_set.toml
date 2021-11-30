@@ -3,7 +3,7 @@
 name = "My Font Set"
 
 # Optional Google font URL
-google_fonts = "Oswald: 400,500|Alatsi|Roboto:400,400italic,700|Roboto+Mono|Permanent Marker|Emblema One|Libre Barcode 128 Text"
+google_fonts = "family=Oswald&family=Roboto&family=Roboto+Mono"
 
 # Font families
 heading_font = "Oswald"
