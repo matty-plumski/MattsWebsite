@@ -3,10 +3,10 @@
 name = "My Font Set"
 
 # Optional Google font URL
-google_fonts = "family=Oswald&family=Roboto&family=Roboto+Mono"
+google_fonts = "family=Oswald&family=Roboto&family=Roboto+Mono&family=Bangers"
 
 # Font families
-heading_font = "Oswald"
+heading_font = "Bangers"
 body_font = "Roboto"
 nav_font = "Oswald"
 mono_font = "Roboto Mono"
