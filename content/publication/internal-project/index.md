@@ -16,9 +16,9 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/matty-plumski
 url_code: ""
-url_pdf: ""
+url_pdf: "https://vuw.libcal.com/admin/event/ajax/files/download?filename=3405%2F25560%2F20211126074510%2FAcademicWebsiteHandout.pdf"
 url_slides: ""
 url_video: ""
 
